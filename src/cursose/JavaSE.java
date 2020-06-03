@@ -60,6 +60,9 @@ public class JavaSE {
 		System.out.println(cantidad);
 		
 		
+		Perro p = new Perro("Blacky",3,"galletas para perro","pequines");
+		p.moludo();
+		
 	}
 
 }
